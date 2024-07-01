@@ -1,0 +1,26 @@
+names:
+  0: larangan berhenti
+  1: larangan masuk bagi kendaraan bermotor dan tidak bermotor
+  2: larangan parkir
+  3: lampu hijau
+  4: lampu kuning
+  5: lampu merah
+  6: larangan belok kanan
+  7: larangan belok kiri
+  8: larangan berjalan terus wajib berhenti sesaat
+  9: larangan memutar balik
+  10: peringatan alat pemberi isyarat lalu lintas
+  11: peringatan banyak pejalan kaki menggunakan zebra cross
+  12: peringatan pintu perlintasan kereta api
+  13: peringatan simpang tiga sisi kiri
+  14: peringatan penegasan rambu tambahan
+  15: perintah masuk jalur kiri
+  16: perintah pilihan memasuki salah satu jalur
+  17: petunjuk area parkir
+  18: petunjuk lokasi pemberhentian bus
+  19: petunjuk lokasi putar balik
+  20: petunjuk-penyeberangan-pejalan-kaki
+path: /home/insomnius/project/traffic-sign-detection/dataset # replace this with you path
+test: ./images/test
+train: ./images/train
+val: ./images/val
